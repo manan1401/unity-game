@@ -6,6 +6,7 @@ TagManager:
   tags:
   - capsule
   - ground
+  - gameobject
   layers:
   - Default
   - TransparentFX
